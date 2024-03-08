@@ -3,20 +3,38 @@
 #   Documentation: https://docs.hugoblox.com/reference/language/
 
 # Default language
+es:
+  languageCode: es-419
+  contentDir: content/es
+  menu:
+    main:
+    - name: Inicio
+      url: '#about'
+      weight: 10
+    - name: Proyectos
+      url: '#projects'
+      weight: 20
+    - name: Equipo
+      url: '#team'
+      weight: 50
+    - name: Publicaciones
+      url: '#publications'
+      weight: 40
+    - name: Blog
+      url: '#posts'
+      weight: 20
+    - name: Contacto
+      url: '#contact'
+      weight: 60
+
+
+# Uncomment the lines below to configure your website in a second language.
+
 en:
   languageCode: en-us
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
-
-# Uncomment the lines below to configure your website in a second language.
-#zh:
-#  languageCode: zh-Hans
-#  contentDir: content/zh
+  contentDir: content/en
 #  title: Chinese website title...
 #  params:
 #    description: Site description in Chinese...
-#  menu:
-#    main:
-#      - name: 传
-#        url: '#about'
-#        weight: 1
+
