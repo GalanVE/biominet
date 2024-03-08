@@ -1,1 +1,1 @@
-# Page of Data mining, Bioinformatics and Networks Lab
+# Web page of Data mining, Bioinformatics and Networks Lab

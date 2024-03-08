@@ -42,9 +42,10 @@ sections:
     content:
       title: Laboratorio de Minería de datos, Bioinformática y Redes
       subtitle: ''
-      text: 'El laboratorio DBN es localizado en el Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas de la Universidad Nacional Autónoma de México, en la Ciudad de México.
+      text: |-
+          El laboratorio DBN es localizado en el Departamento de Ingeniería de Sistemas Computacionales y Automatización en el Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas de la Universidad Nacional Autónoma de México, en la Ciudad de México.
 
-        The primary research focus of the laboratory is to study biological phenomena from a complex systems perspective. For this, we use different data mining strategies to obtain, preprocess and build data sets, which provide the basis for identifying and building networks. These include Gene Regulatory Networks, Gene Co-expression Networks, Drug and target networks, among others.'
+          El principal objetivo de investigación de laboratorio es estudiar a los fenomenos biológicos desde una perspectiva de sistemas complejos. Para esto utilizamos estrategías de minería de datos para obtener, preprocesar y procesar conjuntos de datos de diferentes fuentes literarias. Posteriormente esta información sirve de base para construir redes de regulación genética y redes de co-expresión de genes utilizando aproximaciones de genomica comparativa y algoritmos machine learning. Además, otros proyectos involucran el procesamiento de textos para caracterizar e identificar redes subayacentes en estos documentos. Las cuales son análizadas por medio de métricas de teoría de grafos.'
       filters:
         folders:
           - publication
