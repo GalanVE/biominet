@@ -8,7 +8,7 @@ sections:
   - block: hero
     demo: True # Only display this section in the Hugo Blox Builder demo site
     content:
-      title: DBNL
+      title: BioMiNet
       image:
         filename: hero-academic.png
       cta:
@@ -40,10 +40,10 @@ sections:
   - block: collection
     id: about
     content:
-      title: Laboratorio de Minería de datos, Bioinformática y Redes
+      title: BioMiNet
       subtitle: ''
       text: |-
-          El laboratorio DBN es localizado en el Departamento de Ingeniería de Sistemas Computacionales y Automatización en el Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas de la Universidad Nacional Autónoma de México, en la Ciudad de México.
+          El laboratorio BioMiNet es localizado en el Departamento de Ingeniería de Sistemas Computacionales y Automatización en el Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas de la Universidad Nacional Autónoma de México, en la Ciudad de México.
 
           El principal objetivo de investigación de laboratorio es estudiar a los fenomenos biológicos desde una perspectiva de sistemas complejos. Para esto utilizamos estrategías de minería de datos para obtener, preprocesar y procesar conjuntos de datos de diferentes fuentes literarias. Posteriormente esta información sirve de base para construir redes de regulación genética y redes de co-expresión de genes utilizando aproximaciones de genomica comparativa y algoritmos machine learning. Además, otros proyectos involucran el procesamiento de textos para caracterizar e identificar redes subayacentes en estos documentos. Las cuales son análizadas por medio de métricas de teoría de grafos.'
       filters:

@@ -8,7 +8,7 @@ sections:
   - block: hero
     demo: True # Only display this section in the Hugo Blox Builder demo site
     content:
-      title: DBNL
+      title: BioMiNet
       image:
         filename: hero-academic.png
       cta:
@@ -40,9 +40,9 @@ sections:
   - block: collection
     id: about
     content:
-      title: Data mining, Bioinformatics and Networks Laboratory
+      title: BioMiNet
       subtitle: ''
-      text: 'DBN Lab is located at the Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas at the Universidad Nacional Autónoma de México.
+      text: 'BioMiNet Lab is located at the Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas at the Universidad Nacional Autónoma de México.
 
         The primary research focus of the laboratory is to study biological phenomena from a complex systems perspective. For this, we use different data mining strategies to obtain, preprocess and build data sets, which provide the basis for identifying and building networks. These include Gene Regulatory Networks, Gene Co-expression Networks, Drug and target networks, among others.'
       filters:
