@@ -47,7 +47,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: '../DBNL/en/publication/soberanes2022/fmicb-13-1048694.pdf'
+url_pdf: '../soberanes2022.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

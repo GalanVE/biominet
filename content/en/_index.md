@@ -41,10 +41,14 @@ sections:
     id: about
     content:
       title: BioMiNet
-      subtitle: ''
-      text: 'BioMiNet Lab is located at the Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas at the Universidad Nacional Autónoma de México.
+      subtitle: 'Bioinformatics, Data mining, Networks'
+      text: |-
+          The BioMiNet laboratory is located in the Department of Computer Systems Engineering and Automation at Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas de la Universidad Nacional Autónoma de México, in Mexico City.
 
-        The primary research focus of the laboratory is to study biological phenomena from a complex systems perspective. For this, we use different data mining strategies to obtain, preprocess and build data sets, which provide the basis for identifying and building networks. These include Gene Regulatory Networks, Gene Co-expression Networks, Drug and target networks, among others.'
+          BioMiNet's research is focused on studying biological phenomena from a complex systems perspective. To do this, we use data mining strategies to obtain, preprocess, and process data sets from different literary sources. This information then serves as a basis for building genetic regulatory networks and gene co-expression networks using comparative genomics approaches and machine learning algorithms. Finally, these networks are studied using graph theory metrics to understand their structure and Boolean models to study their dynamics.
+
+          On the other hand, we are also interested in understanding the structure of underlying social networks reported in historical texts, through text processing with NLP and complex network analysis using graph theory.
+          
       filters:
         folders:
           - publication
@@ -53,33 +57,33 @@ sections:
       # Choose how many columns the section has. Valid values: 1 or 2.
       columns: '1'
 
-  - block: collection
-    id: posts
-    content:
-      title: Blog
-      subtitle: ''
-      text: ''
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        folders:
-          - post
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
+  #- block: collection
+  #  id: posts
+  #  content:
+  #    title: Blog
+  #    subtitle: ''
+  #    text: ''
+  #    # Choose how many pages you would like to display (0 = all pages)
+  #    count: 5
+  #    # Filter on criteria
+  #    filters:
+  #      folders:
+  #        - post
+  #      author: ""
+  #      category: ""
+  #      tag: ""
+  #      exclude_featured: false
+  #      exclude_future: false
+  #      exclude_past: false
+  #      publication_type: ""
       # Choose how many pages you would like to offset by
-      offset: 0
+  #    offset: 0
       # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: compact
-      columns: '2'
+  #    order: desc
+  #  design:
+  #    # Choose a layout view
+  #    view: compact
+  #    columns: '2'
 
   - block: portfolio
     id: projects
@@ -179,15 +183,15 @@ sections:
 
         <p><strong>PhD students</strong></p> 
 
-        - <b>Raúl Galindo Hernández</b>. Identificación de patrones en datos de co-expresión de genes utilizando modelos de aprendizaje automático. Posgrado en ciencias e ingeniería de la computatión, IIMAS - UNAM. En curso.
+        - <b>Raúl Galindo Hernández</b>. Identificación de patrones en datos de co-expresión de genes utilizando modelos de aprendizaje automático. Posgrado en ciencias e ingeniería de la computatión, IIMAS - UNAM.
 
         <p><strong>Undergraduate students</strong></p>
 
         - <b>Luis Mario Paz Villagarcia</b>. Análisis de la red de co-expresión genética de <i>Entamoeba histolytica</i>. Licenciatura en Biología. FES Zaragoza UNAM. En curso.
 
-        - <b>Eduardo Alexis Valencia Dorantes</b>.   Dinámica de circuitos de regulación genética de <i>Mycoobacterium tuberculosis</i>. Licenciatura en Matemáticas Aplicadas. Facultad de Ciencias UNAM. En curso.
+        - <b>Eduardo Alexis Valencia Dorantes</b>.   Dinámica de circuitos de regulación genética de <i>Mycoobacterium tuberculosis</i>. Licenciatura en Matemáticas Aplicadas. Facultad de Ciencias UNAM.
 
-        - <b>Alfredo Castillo Jiménez</b>. Identificación de patrones de expresión en <i>Ustilago maydis</i> por medio de redes de co-expresión. Licenciatura en Biología, Facultad de Ciencias - UNAM. En curso.
+        - <b>Alfredo Castillo Jiménez</b>. Identificación de patrones de expresión en <i>Ustilago maydis</i> por medio de redes de co-expresión. Licenciatura en Biología, Facultad de Ciencias - UNAM.
 
         <p><strong>Social service students</strong></p>
 

@@ -22,7 +22,7 @@ organizations:
     url: https://www.iimas.unam.mx
 
 # Short bio (displayed in user profile at end of posts)
-bio: Estoy interesado en las las lineas de investigación de Ciencia de datos aplicada a datos biológicos, Bioinformática, Biología de sistemas y redes.
+bio: Estoy interesado en las lineas de investigación de Ciencia de datos aplicada a datos biológicos, Bioinformática, Biología de sistemas y redes complejas.
 
 # Interests to show in About widget
 interests:
@@ -30,7 +30,7 @@ interests:
   - Redes de Regulación Genética
   - Redes de Co-expresión Genética
   - Minería de datos
-  - Redes subyacentes en textos
+  - Redes complejas
 
 # Education to show in About widget
 education:

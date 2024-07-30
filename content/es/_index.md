@@ -41,11 +41,14 @@ sections:
     id: about
     content:
       title: BioMiNet
-      subtitle: ''
+      subtitle: 'Bioinformatica, Minería de datos y Redes complejas'
       text: |-
-          El laboratorio BioMiNet es localizado en el Departamento de Ingeniería de Sistemas Computacionales y Automatización en el Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas de la Universidad Nacional Autónoma de México, en la Ciudad de México.
+          El laboratorio BioMiNet está ubicado en el Departamento de Ingeniería de Sistemas Computacionales y Automatización en el Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas de la Universidad Nacional Autónoma de México, en la Ciudad de México.
 
-          El principal objetivo de investigación de laboratorio es estudiar a los fenomenos biológicos desde una perspectiva de sistemas complejos. Para esto utilizamos estrategías de minería de datos para obtener, preprocesar y procesar conjuntos de datos de diferentes fuentes literarias. Posteriormente esta información sirve de base para construir redes de regulación genética y redes de co-expresión de genes utilizando aproximaciones de genomica comparativa y algoritmos machine learning. Además, otros proyectos involucran el procesamiento de textos para caracterizar e identificar redes subayacentes en estos documentos. Las cuales son análizadas por medio de métricas de teoría de grafos.'
+           Las investigaciones de BioMiNet están enfocadas en estudiar a los fenómenos biológicos desde una perspectiva de sistemas complejos. Para esto utilizamos estrategías de minería de datos para obtener, preprocesar y procesar conjuntos de datos de diferentes fuentes literarias. Posteriormente esta información sirve de base para construir redes de regulación genética y redes de co-expresión de genes utilizando aproximaciones de genómica comparativa y algoritmos machine learning. Finalmente, estas redes son estudiadas por medio de métricas de teoría de grafos para comprender su estructura y modelos booleanos para estudiar su dinámica. 
+
+           Por otro lado, también nos interesa comprender la estructura de redes sociales subyacentes que se reportan en textos históricos, por medio de procesamiento de textos con NLP y análisis de redes complejas por medio de teoría de grafos.
+
       filters:
         folders:
           - publication
@@ -54,33 +57,33 @@ sections:
       # Choose how many columns the section has. Valid values: 1 or 2.
       columns: '1'
 
-  - block: collection
-    id: posts
-    content:
-      title: Blog
-      subtitle: ''
-      text: ''
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        folders:
-          - post
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: compact
-      columns: '2'
+  #- block: collection
+  #  id: posts
+  #  content:
+  #    title: Blog
+  #    subtitle: ''
+  #    text: ''
+  #    # Choose how many pages you would like to display (0 = all pages)
+  #    count: 5
+  #    # Filter on criteria
+  #    filters:
+  #      folders:
+  #        - post
+  #      author: ""
+  #      category: ""
+  #      tag: ""
+  #      exclude_featured: false
+  #      exclude_future: false
+  #      exclude_past: false
+  #      publication_type: ""
+  #    # Choose how many pages you would like to offset by
+  #    offset: 0
+  #    # Page order: descending (desc) or ascending (asc) date.
+  #    order: desc
+  #  design:
+  #    # Choose a layout view
+  #    view: compact
+  #    columns: '2'
 
   - block: portfolio
     id: projects
@@ -184,21 +187,21 @@ sections:
 
         - <b>Raúl Galindo Hernández</b> 
 
-          Identificación de patrones en datos de co-expresión de genes utilizando modelos de aprendizaje automático. Posgrado en ciencias e ingeniería de la computatión, IIMAS - UNAM. En curso.
+          Identificación de patrones en datos de co-expresión de genes utilizando modelos de aprendizaje automático. Posgrado en ciencias e ingeniería de la computatión, IIMAS - UNAM.
 
         <p><strong>Estudiantes de licenciatura</strong></p>
 
         - <b>Luis Mario Paz Villagarcia</b> 
 
-          Análisis de la red de co-expresión genética de <i>Entamoeba histolytica</i>. Licenciatura en Biología. FES Zaragoza UNAM. En curso.
+          Análisis de la red de co-expresión genética de <i>Entamoeba histolytica</i>. Licenciatura en Biología. FES Zaragoza UNAM. 
 
         - <b>Eduardo Alexis Valencia Dorantes</b>
 
-          Dinámica de circuitos de regulación genética de <i>Mycoobacterium tuberculosis</i>. Licenciatura en Matemáticas Aplicadas. Facultad de Ciencias UNAM. En curso.
+          Dinámica de circuitos de regulación genética de <i>Mycoobacterium tuberculosis</i>. Licenciatura en Matemáticas Aplicadas. Facultad de Ciencias UNAM.
 
         - <b>Alfredo Castillo Jiménez</b>
 
-          Identificación de patrones de expresión en <i>Ustilago maydis</i> por medio de redes de co-expresión. Licenciatura en Biología, Facultad de Ciencias - UNAM. En curso.
+          Identificación de patrones de expresión en <i>Ustilago maydis</i> por medio de redes de co-expresión. Licenciatura en Biología, Facultad de Ciencias - UNAM.
 
         <p><strong>Estudiantes de servicio social</strong></p>
 

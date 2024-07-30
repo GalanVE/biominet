@@ -30,6 +30,7 @@ interests:
   - Gene regulatory networks
   - Gene co-expression networks
   - Data mining
+  - Complex networks
 
 # Education to show in About widget
 education:

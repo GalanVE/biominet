@@ -1,6 +1,6 @@
 ---
 title: Data mining in Biology
-summary: Obtaining, preprocessing and processing of hightrouput data, to identify patterns through machine learning algorithms.
+summary: Obtaining, preprocessing and processing of hightrouput data.
 tags:
   - Datamining
 date: '2019-11-01T00:00:00Z'
@@ -21,4 +21,4 @@ image:
 slides: Datamining
 ---
 
-In process.
+The term Biological Data Mining has gained relevance in recent years, due to the need to process and analyze the large volumes of information generated from biological experiments. We can define Data Mining as the non-trivial task of extracting previously unknown and potentially useful implicit information from databases. The main techniques for data mining include: classification, clustering, outlier detection, association rules, sequence analysis, time series analysis and text mining. One of the largest biological databases is the National Center for Biotechnology Information (NCBI) which contains data information from high-throughput experiments such as microarrays and RNA sequencing. It is estimated that it contains more than 36 pentabytes (10^15 bytes) of information. Therefore, new approaches in bioinformatics, systems biology and data science allow to process, visualize and analyze this information, to generate new knowledge. In this sense, we developed different workflows to download, transform, process and analyze the raw data stored in the NCBI.

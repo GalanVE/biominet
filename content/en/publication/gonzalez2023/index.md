@@ -42,7 +42,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: '../DBNL/en/publication/gonzalez2023/fmolb-10-1040721.pdf'
+url_pdf: './gonzalez2023.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
