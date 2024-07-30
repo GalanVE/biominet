@@ -10,7 +10,7 @@ baseURL: 'https://galanve.github.io/biominet/' # Website URL
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: en
+defaultContentLanguage: es
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: True
 removePathAccents: true
