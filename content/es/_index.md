@@ -9,12 +9,12 @@ sections:
   - block: collection
     id: about
     content:
-      title: BioMiNet
+      title: Laboratorio de datos biológicos y redes
       subtitle: 'Bioinformática, Minería de datos y Redes complejas'
       text: |-
-          El laboratorio BioMiNet está ubicado en el Departamento de Ingeniería de Sistemas Computacionales y Automatización en el Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas de la Universidad Nacional Autónoma de México, en la Ciudad de México.
+          El laboratorio de datos biológicos y redes está ubicado en el Departamento de Ingeniería de Sistemas Computacionales y Automatización en el Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas de la Universidad Nacional Autónoma de México, en la Ciudad de México.
 
-           Las investigaciones de BioMiNet están enfocadas en estudiar a los fenómenos biológicos desde una perspectiva de sistemas complejos. Para esto utilizamos estrategías de minería de datos para obtener, preprocesar y procesar conjuntos de datos de diferentes fuentes literarias. Posteriormente esta información sirve de base para construir redes de regulación genética y redes de co-expresión de genes utilizando aproximaciones de genómica comparativa y algoritmos machine learning. Finalmente, estas redes son estudiadas por medio de métricas de teoría de grafos para comprender su estructura y modelos booleanos para estudiar su dinámica. 
+           Estamos enfocados en estudiar a los fenómenos biológicos desde una perspectiva de sistemas complejos. Para esto utilizamos estrategías de minería de datos para obtener, preprocesar y procesar conjuntos de datos de diferentes fuentes literarias. Posteriormente esta información sirve de base para construir redes de regulación genética y redes de co-expresión de genes utilizando aproximaciones de genómica comparativa y algoritmos machine learning. Finalmente, estas redes son estudiadas por medio de métricas de teoría de grafos para comprender su estructura y modelos booleanos para estudiar su dinámica. 
 
            Por otro lado, también nos interesa comprender la estructura de redes sociales subyacentes que se reportan en textos históricos, por medio de procesamiento de textos con NLP y análisis de redes complejas por medio de teoría de grafos.
 

@@ -40,12 +40,12 @@ sections:
   - block: collection
     id: about
     content:
-      title: BioMiNet
+      title: Biological data and networks lab
       subtitle: 'Bioinformatics, Data mining, Networks'
       text: |-
-          The BioMiNet laboratory is located in the Department of Computer Systems Engineering and Automation at Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas de la Universidad Nacional Autónoma de México, in Mexico City.
+          Biological data and networks lab is located in the Department of Computer Systems Engineering and Automation at Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas de la Universidad Nacional Autónoma de México, in Mexico City.
 
-          BioMiNet's research is focused on studying biological phenomena from a complex systems perspective. To do this, we use data mining strategies to obtain, preprocess, and process data sets from different literary sources. This information then serves as a basis for building genetic regulatory networks and gene co-expression networks using comparative genomics approaches and machine learning algorithms. Finally, these networks are studied using graph theory metrics to understand their structure and Boolean models to study their dynamics.
+           We are focused on studying biological phenomena from a complex systems perspective. To do this, we use data mining strategies to obtain, preprocess, and process data sets from different literary sources. This information then serves as a basis for building genetic regulatory networks and gene co-expression networks using comparative genomics approaches and machine learning algorithms. Finally, these networks are studied using graph theory metrics to understand their structure and Boolean models to study their dynamics.
 
           On the other hand, we are also interested in understanding the structure of underlying social networks reported in historical texts, through text processing with NLP and complex network analysis using graph theory.
           

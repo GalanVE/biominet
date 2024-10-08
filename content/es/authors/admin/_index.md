@@ -26,6 +26,7 @@ bio: Estoy interesado en las lineas de investigación de Ciencia de datos aplica
 
 # Interests to show in About widget
 interests:
+  - Ciencia de datos
   - Bioinformática
   - Redes de Regulación Genética
   - Redes de Co-expresión Genética

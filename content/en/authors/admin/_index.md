@@ -26,6 +26,7 @@ bio: My research interests include Bioinformatic, System biology, Data mining in
 
 # Interests to show in About widget
 interests:
+  - Data Science
   - Bioinformatics
   - Gene regulatory networks
   - Gene co-expression networks
