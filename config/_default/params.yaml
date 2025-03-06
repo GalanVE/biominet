@@ -99,6 +99,7 @@ features:
     provider: 'mapnik'
     api_key: ''
     zoom: 15
+  enable_people: true
 
 # Extensions
 
