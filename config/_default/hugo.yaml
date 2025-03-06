@@ -3,16 +3,16 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: biominet # Website name
-baseURL: 'https://galanve.github.io/biominet/' # Website URL
+title: Wowchemy Research Group # Website name
+baseURL: 'https://example.com/' # Website URL
 
 ############################
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: es
+defaultContentLanguage: en
 hasCJKLanguage: false
-defaultContentLanguageInSubdir: True
+defaultContentLanguageInSubdir: false
 removePathAccents: true
 
 ############################
@@ -21,13 +21,14 @@ removePathAccents: true
 
 enableGitInfo: false
 summaryLength: 30
-paginate: 10
+pagination:
+  pagerSize: 10
 enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
 ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
 permalinks:
-  event: '/talk/:slug/'
+  authors: '/author/:slug/'
   tags: '/tag/:slug/'
   categories: '/category/:slug/'
   publication_types: '/publication-type/:slug/'
@@ -59,6 +60,4 @@ related:
 security:
   _merge: deep
 sitemap:
-  _merge: deep
-minify:
   _merge: deep
