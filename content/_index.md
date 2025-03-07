@@ -1,25 +1,39 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-10-24
+date: 2025-03-05
 type: landing
 
 sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        <span style="font-size: 2rem; text-align: center;">Datos Biológicos y Redes Complejas</span>
       image:
-        filename: welcome.jpg
+        filename: Logo.png
       text: |
         <br>
-        
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
-  
+
+        <p style="font-size: 0.9rem; line-height: 1.4; text-align: justify;">
+        El Grupo de Datos Biológicos y Redes Complejas forma parte del Departamento de Ingeniería de Sistemas Computacionales y Automatización en el Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas (IIMAS) de la Universidad Nacional Autónoma de México (UNAM), ubicado en la Ciudad de México.
+        </p>
+
+        <p style="font-size: 0.9rem; line-height: 1.4; text-align: justify;">
+        Nuestro grupo trabaja en la Línea de investigación de Ciencia de datos aplicada a Bioinformática y Biología de Sistemas con el objetivo de comprender cómo las interacciones a nivel de la expresión genética permiten a los organismos responder de manera coordinada a estímulos intra y extracelulares desde una perspectiva de sistemas.
+        </p>
+
+        <p style="font-size: 0.9rem; line-height: 1.4; text-align: justify;">
+        Este enfoque nos ha permitido identificar patrones de genes y proteínas claves en diversos procesos biológicos, como la muerte celular programada de hongos, genes de virulencia de hongos y bacterias, genes relacionados a enfermedades como cáncer de mama y próstata, genes conservados en la regulación y metabolismo, así como el impacto de los fármacos y genes blancos, entre otros.
+        </p>
+
+        <p style="font-size: 0.9rem; line-height: 1.4; text-align: justify;">
+        Por otro lado, también nos interesa comprender la estructura de redes sociales subyacentes que se reportan en textos históricos, por medio de procesamiento de textos con NLP y análisis de redes complejas por medio de teoría de grafos.
+        </p>
+
+
   - block: collection
     content:
-      title: Latest News
+      title: Proyectos
       subtitle:
       text:
       count: 5
@@ -56,25 +70,13 @@ sections:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
 
-  - block: collection
-    content:
-      title: Latest Preprints
-      text: ""
-      count: 5
-      filters:
-        folders:
-          - publication
-        publication_type: 'article'
-    design:
-      view: citation
-      columns: '1'
 
   - block: markdown
     content:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+        {{% cta cta_link="./people/" cta_text="Conoce al equipo →" %}}
     design:
       columns: '1'
 ---
