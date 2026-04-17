@@ -8,8 +8,8 @@ sections:
   - block: slider
     content:
       slides:
-      - title: Bienvenidos al grupo de Datos Biológicos y Redes Complejas
-        content: Bioinformatica, Minería de Datos y Redes
+      - title: Bienvenidos al grupo de Ciencia de Datos Biológicos y Redes Complejas
+        content: Bioinformatica, Minería de datos, Machine learning, IA y Redes Complejas
 
         align: center
         background:

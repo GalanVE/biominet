@@ -18,7 +18,7 @@ sections:
         postcode: '04510'
         country: México
         country_code: MX
-      directions: Third level, office 304.
+      directions: Edificio A, Oficina 315.
       office_hours:
         - 'Monday 09:00 to 16:30'
         - 'Tuesday 09:00 to 16:30'
