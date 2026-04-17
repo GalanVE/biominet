@@ -14,9 +14,7 @@ address:
 
 summary: Simposio
 
-abstract: ' El siglo XVII transformó radicalmente la manera en que se producía y legitimaba el conocimiento. Impulsada por figuras como Johannes Kepler, Tycho Brahe, Galileo Galilei y, más tarde, los primeros miembros de la Royal Society, la ciencia moderna no operó en el aislamiento, sino a través de una densa trama de intercambios transnacionales conocida como la "República de las Letras". En una época sin revistas científicas consolidadas, las cartas, la circulación de tablas astronómicas, los préstamos de instrumentos y las cadenas de mecenazgo funcionaron como el pegamento de esta primera gran infraestructura intelectual en red.
-El estudio sistemático de esos intercambios ha sido crucial para la reconstrucción histórica. Tradicionalmente abordados desde el análisis cualitativo de fuentes, que implicaba una hermenéutica cuidadosa y paciente. Ahora esos materiales pueden ser reinterpretados mediante herramientas de ciencia de datos, análisis de redes sociales y técnicas de inteligencia artificial que permitan generar representaciones formales de las relaciones entre actores, ideas y objetos, que no sustituye, sino que viene a complementar lo anterior. Durante generaciones, los especialistas han desarrollado una larga tradición de análisis de fuentes, la cual hoy converge con las nuevas herramientas informáticas en plena revolución impulsada por la automatización y la inteligencia artificial.
-Este simposio académico propone un encuentro crítico y metodológico entre filósofos e historiadores con especialistas en análisis de datos, con el objetivo de construir puentes y un lenguaje común para el futuro.
+abstract: ' Los avances tecnológicos actuales presentan tanto una oportunidad como un desafío para el estudio de la historia y las humanidades. A partir del análisis de la Revolución Científica del siglo XVII, con especial atención a la figura de Johannes Kepler, este simposio reúne a historiadores, filósofos y especialistas en ciencia de datos para explorar cómo se construyen las redes de conocimiento, la colaboración científica y los cambios de paradigma, con el objetivo de generar un diálogo interdisciplinario que permita desarrollar nuevas formas de estudiar el pasado y comprender el presente.
 '
 
 # Talk start and end times.
@@ -47,7 +45,7 @@ links:
   - icon: edit
     icon_pack: fas
     name: Registro
-    url: 'https://docs.google.com/forms/d/e/1FAIpQLSeH3InDphy66pyBKEel5QiCo_JfP5UAvNBrhgqeumD2zVU5yQ/viewform?usp=publish-editor'
+    url: 'https://docs.google.com/forms/d/e/1FAIpQLSeH3InDphy66pyBKEel5QiCo_JfP5UAvNBrhgqeumD2zVU5yQ/viewform?usp=preview'
   
   - icon: video
     icon_pack: fas
@@ -72,7 +70,7 @@ projects:
 * **10:00 – 11:00** | **Miguel Ángel Granada** (U. de Barcelona)
     * *El Sol como corazón del mundo en Kepler y su contacto con Herwart von Hohenburg*
 * **11:00 – 12:00** | **Patrick Boner** (Catholic University of America)
-    * *Las novedades celestiales y la ciencia de las estrellas: Kepler vs. Krabbe...*
+    * *Las novedades celestiales y la ciencia de las estrellas: Kepler vs. Krabbe sobre precisión y autoridad en la Alemania moderna temprana*
 * **12:00 – 13:00** | **Diego Spita** (UASLP)
     * *Teoría de redes para determinar la distancia lingüística: el caso del manuscrito de Voynich*
 
@@ -83,5 +81,5 @@ projects:
 * **16:00 – 17:00** | **José Antonio Motilla Chávez** (UASLP)
     * *Automatización por medio de agentes para análisis de textos históricos*
 * **17:00 – 18:00** | **Javier Luna Leal** (DISCA-IIMAS)
-    * *La construcción de las primeras redes científicas durante la Revolución Copernicana*
+    * *La construcción de las primeras redes científicas durante la Revolución Copernicana: el caso de Johannes Kepler*
 
