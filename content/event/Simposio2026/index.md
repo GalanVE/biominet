@@ -67,19 +67,23 @@ projects:
 ---
 ## Programa del Simposio
 
-* **10:00 – 11:00** | **Miguel Ángel Granada** (U. de Barcelona)
+<div style="background-image: linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.7)), url('fondo.jpg'); background-size: cover; background-position: center; padding: 40px; border-radius: 10px; color: #000;">
+
+
+* **10:00 – 11:00** | **Miguel Ángel Granada** 
     * *El Sol como corazón del mundo en Kepler y su contacto con Herwart von Hohenburg*
-* **11:00 – 12:00** | **Patrick Boner** (Catholic University of America)
+* **11:00 – 12:00** | **Patrick Boner** 
     * *Las novedades celestiales y la ciencia de las estrellas: Kepler vs. Krabbe sobre precisión y autoridad en la Alemania moderna temprana*
-* **12:00 – 13:00** | **Diego Spita** (UASLP)
+* **12:00 – 13:00** | **Diego Espitia** 
     * *Teoría de redes para determinar la distancia lingüística: el caso del manuscrito de Voynich*
 
 > **13:00 – 15:00 | Receso**
 
-* **15:00 – 16:00** | **Alejandro Arnulfo Ruiz** (MMSS-IIMAS)
+* **15:00 – 16:00** | **Alejandro Arnulfo Ruiz** 
     * *Redes políticas en México*
-* **16:00 – 17:00** | **José Antonio Motilla Chávez** (UASLP)
+* **16:00 – 17:00** | **José Antonio Motilla Chávez** 
     * *Automatización por medio de agentes para análisis de textos históricos*
-* **17:00 – 18:00** | **Javier Luna Leal** (DISCA-IIMAS)
+* **17:00 – 18:00** | **Javier Luna Leal** 
     * *La construcción de las primeras redes científicas durante la Revolución Copernicana: el caso de Johannes Kepler*
 
+</div>
