@@ -4,7 +4,7 @@ title: 'Redes e Historia: De los textos a los grafos'
 event: Simposio
 event_url: 
 
-location: Salón C-22 IIMAS
+location: Salón C-22 IIMAS o ZOOM
 address:
   street: Ciudad Universitaria
   city: CDMX
@@ -12,7 +12,7 @@ address:
   postcode: ''
   country: México
 
-summary: Simposio
+summary: Simposio (híbrido)
 
 abstract: ' Los avances tecnológicos actuales presentan tanto una oportunidad como un desafío para el estudio de la historia y las humanidades. A partir del análisis de la Revolución Científica del siglo XVII, con especial atención a la figura de Johannes Kepler, este simposio reúne a historiadores, filósofos y especialistas en ciencia de datos para explorar cómo se construyen las redes de conocimiento, la colaboración científica y los cambios de paradigma, con el objetivo de generar un diálogo interdisciplinario que permita desarrollar nuevas formas de estudiar el pasado y comprender el presente.
 '
