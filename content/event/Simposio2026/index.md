@@ -1,7 +1,7 @@
 ---
 title: 'Redes e Historia: De los textos a los grafos'
 
-event: Simposio
+event: Simposio (híbrido)
 event_url: 
 
 location: Salón C-22 IIMAS o ZOOM
