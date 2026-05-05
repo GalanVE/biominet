@@ -65,25 +65,89 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
+<style>
+  .programa-container {
+    background-image: linear-gradient(rgba(255, 255, 255, 0.85), rgba(255, 255, 255, 0.85)), url('fondo.jpg');
+    background-size: cover;
+    background-position: center;
+    padding: 30px;
+    border-radius: 10px;
+    color: #000 !important;
+  }
+
+  .nombre-ponente {
+    font-weight: bold;
+    color: #0056b3;
+    text-decoration: underline dotted;
+    cursor: help;
+    position: relative;
+    display: inline-block;
+  }
+
+  /* Ventana emergente mejorada para textos largos */
+  .nombre-ponente .tooltiptext {
+    visibility: hidden;
+    width: 350px; /* Un poco más ancho */
+    max-height: 100px; /* Altura máxima para no tapar toda la pantalla */
+    overflow-y: auto; /* Activa barra de desplazamiento si el texto es muy largo */
+    background-color: #ffffff;
+    color: #222;
+    text-align: left;
+    border-radius: 8px;
+    padding: 18px;
+    position: absolute;
+    z-index: 999;
+    bottom: 125%;
+    left: 0;
+    opacity: 0;
+    transition: opacity 0.3s;
+    box-shadow: 0px 8px 20px rgba(0,0,0,0.25);
+    font-size: 13px; /* Un poco más pequeña para que quepa más texto */
+    font-weight: normal;
+    line-height: 1.5;
+    border: 1px solid #ccc;
+  }
+
+  /* Personalización de la barra de desplazamiento interna */
+  .nombre-ponente .tooltiptext::-webkit-scrollbar {
+    width: 6px;
+  }
+  .nombre-ponente .tooltiptext::-webkit-scrollbar-thumb {
+    background: #ccc;
+    border-radius: 10px;
+  }
+
+  .nombre-ponente:hover .tooltiptext {
+    visibility: visible;
+    opacity: 1;
+  }
+</style>
 ## Programa del Simposio
+<div class="programa-container">
 
-<div style="background-image: linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.7)), url('fondo.jpg'); background-size: cover; background-position: center; padding: 40px; border-radius: 10px; color: #000;">
 
 
-* **10:00 – 11:00** | **Miguel Ángel Granada** 
+* **10:00 – 11:00** | <span class="nombre-ponente">Miguel Ángel Granada<span class="tooltiptext"><b>MIGUEL Á. GRANADA</b> es catedrático emérito de Historia de la Filosofía del Renacimiento en la Universidad de Barcelona. Ha traducido al español obras de Maquiavelo, Telesio, Bacon, Campanella, Erasmo y Bruno. Entre sus publicaciones destacan <i>Cosmología, religión y política en el Renacimiento</i> y <i>El debate cosmológico en 1588</i>. Ha coeditado diversas fuentes astronómicas sobre la revolución cosmológica y su trabajo más reciente, en colaboración con Patrick J. Boner, es la edición del tratado de Michael Maestlin sobre el cometa de 1618 (Brill, 2022).</span></span>
     * *El Sol como corazón del mundo en Kepler y su contacto con Herwart von Hohenburg*
-* **11:00 – 12:00** | **Patrick Boner** 
+
+* **11:00 – 12:00** | <span class="nombre-ponente">Patrick Boner<span class="tooltiptext"><b>Patrick J. Boner</b> es doctor en Filosofía por la Universidad de Cambridge (2007) y especialista en historia de la ciencia. Su investigación analiza la relación entre ciencia y religión, destacando sus estudios sobre la cosmología de Kepler y la Stella Nova de 1604.</span></span> 
     * *Las novedades celestiales y la ciencia de las estrellas: Kepler vs. Krabbe sobre precisión y autoridad en la Alemania moderna temprana*
-* **12:00 – 13:00** | **Diego Espitia** 
+
+* **12:00 – 13:00** |<span class="nombre-ponente">Diego Espitia<span class="tooltiptext"><b>Diego Espitia</b> es doctor en Ciencias Físicas por la UAEM. Sus intereses en investigación se han centrado en el estudio de los lenguajes naturales desde el punto de vista de los sistemas complejos y la teoría de redes. En la actualidad se desempeña como investigador del Laboratorio de Estructuras y Dinámicas Sociales de la UASLP.</span></span> 
     * *Teoría de redes para determinar la distancia lingüística: el caso del manuscrito de Voynich*
 
 > **13:00 – 15:00 | Receso**
 
-* **15:00 – 16:00** | **Alejandro Arnulfo Ruiz** 
+* **15:00 – 16:00** | <span class="nombre-ponente">Alejandro Arnulfo Ruiz León<span class="tooltiptext"><b> Alejandro Ruiz</b> es maestro en Bibliotecología y Estudios de la Información por la FFYL-UNAM y Actuario por la Facultad de Ciencias-UNAM.
+Miembro del Departamento de Modelación Matemática de Sistemas Sociales del Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas de la UNAM desde el año 2000.
+Colaboró con el Ing. Jorge Gil Mendieta por más de 18 años, siendo pioneros en la UNAM en el estudio, aplicación y difusión del análisis de redes sociales en ámbitos como el político, el académico y el empresarial, a partir del 2011 sin omitir los otros ámbitos, su interés se ha orientado al estudio de la producción e impacto de la actividad científica y la formación de redes de colaboración.
+Cabe señalar la participación en la elaboración del documento “La ciencia en la UNAM 2023 a través del Subsistema de Investigación Científica, el cual más que un compendio del quehacer de dicho subsistema es una continuación del esfuerzo por estudiar y entender las capacidades y tendencias de dicho subsistema.</span></span> 
     * *Redes políticas en México*
-* **16:00 – 17:00** | **José Antonio Motilla Chávez** 
+
+* **16:00 – 17:00** | **José Antonio Motilla Chávez** (UASLP)
     * *Automatización por medio de agentes para análisis de textos históricos*
-* **17:00 – 18:00** | **Javier Luna Leal** 
+
+* **17:00 – 18:00** | **Javier Luna Leal** (DISCA-IIMAS)
     * *La construcción de las primeras redes científicas durante la Revolución Copernicana: el caso de Johannes Kepler*
 
 </div>
