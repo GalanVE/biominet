@@ -128,7 +128,7 @@ projects:
 
 
 * **10:00 – 11:00** | <span class="nombre-ponente">Miguel Ángel Granada<span class="tooltiptext"><b>MIGUEL Á. GRANADA</b> es catedrático emérito de Historia de la Filosofía del Renacimiento en la Universidad de Barcelona. Ha traducido al español obras de Maquiavelo, Telesio, Bacon, Campanella, Erasmo y Bruno. Entre sus publicaciones destacan <i>Cosmología, religión y política en el Renacimiento</i> y <i>El debate cosmológico en 1588</i>. Ha coeditado diversas fuentes astronómicas sobre la revolución cosmológica y su trabajo más reciente, en colaboración con Patrick J. Boner, es la edición del tratado de Michael Maestlin sobre el cometa de 1618 (Brill, 2022).</span></span>
-    * *El Sol como corazón del mundo en Kepler y su contacto con Herwart von Hohenburg*
+    * *Johannes Kepler: su correspondencia con Herwart von Hohenburg y el Sol como corazón del mundo*
 
 * **11:00 – 12:00** | <span class="nombre-ponente">Patrick Boner<span class="tooltiptext"><b>Patrick J. Boner</b> es doctor en Filosofía por la Universidad de Cambridge (2007) y especialista en historia de la ciencia. Su investigación analiza la relación entre ciencia y religión, destacando sus estudios sobre la cosmología de Kepler y la Stella Nova de 1604.</span></span> 
     * *Las novedades celestiales y la ciencia de las estrellas: Kepler vs. Krabbe sobre precisión y autoridad en la Alemania moderna temprana*
